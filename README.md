@@ -32,7 +32,7 @@ The Earn-Maanagement application is built using the following technologies:
 
 ## Demo
 
-
+![image](https://github.com/Bexst24/Earn-Management/assets/109903705/9eba50eb-e102-4c6a-a027-876cee0148d7)
 
 ## Contact
 If you encounter any issues, have questions, or want to contribute to the project, feel free to reach out
