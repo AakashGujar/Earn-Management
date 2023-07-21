@@ -1,4 +1,4 @@
-# Earn-Maanagement
+# Earn-Management
 
 Earn-Maanagement is a web application built using React. It aims to provide users with easy access to resources related to a certain subject (Fingertips). The application includes features such as a blog, roadmap, and contact information. Users can also connect with the community on Discord and social media platforms like Twitter, Facebook, and Instagram.
 
