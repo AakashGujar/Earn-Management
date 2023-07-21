@@ -1,6 +1,6 @@
 # Earn-Management
 
-Earn-Maanagement is a web application built using React. It aims to provide users with easy access to resources related to a certain subject (Fingertips). The application includes features such as a blog, roadmap, and contact information. Users can also connect with the community on Discord and social media platforms like Twitter, Facebook, and Instagram.
+Earn-Management is a web application built using React. It aims to provide users with easy access to resources related to a certain subject (Fingertips). The application includes features such as a blog, roadmap, and contact information. Users can also connect with the community on Discord and social media platforms like Twitter, Facebook, and Instagram.
 
 ![Earn-Manageement-Png](./src/assets/EarnManagement.png)
 
@@ -32,7 +32,7 @@ The Earn-Maanagement application is built using the following technologies:
 
 ## Demo
 
-![image](https://github.com/Bexst24/Earn-Management/assets/109903705/9eba50eb-e102-4c6a-a027-876cee0148d7)
+![image](https://github.com/Bexst24/Earn-Management/assets/109903705/c5189c31-32aa-4e6a-b5cd-2a53fbdca6cc)
 
 ## Contact
 If you encounter any issues, have questions, or want to contribute to the project, feel free to reach out
